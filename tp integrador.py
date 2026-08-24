@@ -588,4 +588,3 @@ if hp_jugador > 0:
     print(f" ¡VICTORIA! {nombre_jugador} ha ganado la batalla.")
 else:
     print(f" DERROTA. Has caído en combate.")
-    
